@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "Pepinofont";
+  src: url("fonts/Pepinofont-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Penguin";
+  src: url("fonts/ofont.ru_Penguin\ Attack.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Bonche";
+  src: url("fonts/ofont.ru_Bonche.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body{
+  font-family: Arial,Arial, Helvetica, sans-serif;
+  background-color: bisque;
+  width: 1440px; 
+}
+
+@media (min-width: 1440px) {
+  body{
+    margin: 0 auto;
+  }
+}
+
+img{
+  width: 300px;
+  height: 400px;
+  border-radius: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+.augustRush{
+  font-family: "Penguin", Arial, Helvetica, sans-serif;
+}
+
+.whiteChicks{
+  font-family: "Pepinofont", Arial, Helvetica, sans-serif;
+  font-size: 20pt;
+}
+
+.theButterflyEffect{
+  font-family: "Bonche", Arial, Helvetica, sans-serif;
+}

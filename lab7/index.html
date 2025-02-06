@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Flex</title>
+</head>
+<body>
+    <header>
+        <h1>Изучаем flexbox</h1>
+    </header>
+    <div class="container-1-2-3">
+        <article>
+            <h2>1</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+            </p>
+        </article>
+        <article>
+            <h2>2</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+            </p>
+        </article>
+        <article>
+            <h2>3</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+            </p>
+        </article>
+    </div>
+    <div class="container-4-5-6-7-8-9-10">
+        <div class="container-4-5-6">
+            <article>
+                <h2>4</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+                </p>
+            </article>
+            <article>
+                <h2>5</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+                </p>
+            </article>
+            <article>
+                <h2>6</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+                </p>
+            </article>
+        </div>
+        <div class="container-7-8-9-10">
+            <div class="container-7-8">
+                <article>
+                    <h2>7</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+                    </p>
+                </article>
+                <article>
+                    <h2>8</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+                    </p>
+                </article>
+           </div>
+            <div class="container-9-10">
+                <article>
+                    <h2>9</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+                    </p>
+                </article>
+                <article>
+                    <h2>10</h2>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta, perspiciatis quo praesentium harum quibusdam nostrum aliquam voluptates ullam aliquid, dolor consectetur expedita, nisi mollitia reiciendis deleniti sit natus quos est.
+                    </p>
+                </article>
+            </div>
+        </div> 
+    </div>
+    <h2>Дополнительное задание</h2>
+    <div>
+        <h2>flex-direction</h2>
+        <div id="first-task-container" class="base-container">
+            <button>row</button>
+            <button>row-reverse</button>
+            <button>column</button>
+            <button>column-reverse</button>
+        </div>
+
+        <div id="flex-direction-container">
+            <div class="base-div">1</div>
+            <div class="base-div">2</div>
+            <div class="base-div">3</div>
+            <div class="base-div">4</div>
+        </div>
+    </div>
+    <div>
+        <h2>flex-wrap</h2>
+        <div id="second-task-container" class="base-container">
+            <button>nowrap</button>
+            <button>wrap</button>
+            <button>wrap-reverse</button>
+        </div>
+
+        <div id="flex-wrap-container">
+            <div class="base-div special-width">1</div>
+            <div class="base-div special-width">2</div>
+            <div class="base-div special-width">3</div>
+            <div class="base-div special-width">4</div>
+        </div>
+    </div>
+    <div>
+        <h2>justify-content</h2>
+        <div id="third-task-container" class="base-container">
+            <button>flex-start</button>
+            <button>flex-end</button>
+            <button>center</button>
+            <button>space-between</button>
+            <button>space-around</button>
+            <button>space-evenly</button>
+        </div>
+
+        <div id="justify-content-container">
+            <div class="base-div">1</div>
+            <div class="base-div">2</div>
+            <div class="base-div">3</div>
+            <div class="base-div">4</div>
+        </div>
+    </div>
+    <div>
+        <h2>align-items</h2>
+        <div id="forth-task-container" class="base-container">
+            <button>flex-start</button>
+            <button>flex-end</button>
+            <button>center</button>
+            <button>baseline</button>
+            <button>stretch</button>
+        </div>
+
+        <div id="align-items-container">
+            <div class="base-div">1</div>
+            <div class="base-div">2</div>
+            <div class="base-div">3</div>
+            <div class="base-div">4</div>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

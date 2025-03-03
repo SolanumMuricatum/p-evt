@@ -9,10 +9,10 @@
 + **Gmail:** [hanna.hlushko.2005@gmail.com](hanna.hlushko.2005@gmail.com "Скопировать") 
 + **Deploy:** [SolanumMuricatum.github.io/p-evt/](https://solanummuricatum.github.io/p-evt/ "Перейти по ссылке")|
 
-  | ![Фотография](https://github.com/SolanumMuricatum/p-evt/blob/main/me.jpg) | **Информация**  |
-|---------------------------------------|-----------------|
-|                                       | **ФИО:**        |
-|                                       | **Дата рождения:** |
+| ![Фотография](https://github.com/SolanumMuricatum/p-evt/blob/main/me.jpg) | **Информация**  |
+|---------------------------------------------------------------------------|-----------------|
+|                                                                           | **ФИО:**        |
+|                                                                           | **Дата рождения:** |
 |                                       | **Telegram:**   |
 |                                       | **Группа:**     |
 |                                       | **GitHub:**     |

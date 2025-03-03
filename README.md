@@ -1,7 +1,7 @@
 # CV
 ## Личная информация
 
-|![](https://github.com/SolanumMuricatum/p-evt/blob/main/me.jpg)|● ФИО: Глушко Анна Юрьевна <br> ● Дата рождения: 11.03.2005 <br> ● Telegram: @smurny_vozhyk <br> ● Группа: 210901 <br> ● GitHub: [SolanumMuricatum](https://github.com/SolanumMuricatum/ "Перейти по ссылке") <br> ● Gmail: hanna.hlushko.2005@gmail.com <br> ● Deploy: [SolanumMuricatum.github.io/p-evt/](https://solanummuricatum.github.io/p-evt/ "Перейти по ссылке")|
+|![](https://github.com/SolanumMuricatum/p-evt/blob/main/me.jpg)|● ФИО: Глушко Анна Юрьевна <br> ● Дата рождения: 11.03.2005 <br> ● Место жительства: Минск, Беларусь <br> ● Telegram: @smurny_vozhyk <br> ● Группа: 210901 <br> ● GitHub: [SolanumMuricatum](https://github.com/SolanumMuricatum/ "Перейти по ссылке") <br> ● Gmail: hanna.hlushko.2005@gmail.com <br> ● Deploy: [SolanumMuricatum.github.io/p-evt/](https://solanummuricatum.github.io/p-evt/ "Перейти по ссылке")|
 |:---|:---|
 
 ## О себе
@@ -24,3 +24,18 @@
 + **Инструменты проектирования:** IntelliJ IDEA (4), Visual Studio Code (4), PyCharm (3), Android Studio (3), Draw.io (5), Figma (3), Adobe Photoshop (3) 
 + **Технологии:** Git (3), Docker (2), UML (3) 
 + **Методологии:** Wireframes (4), User stories (4), Empathy maps (4), User persona (4)
+
+### *SoftSkills*
++ Способности к обучению
++ Умение работать в команде 
++ Лидерские качества 
++ Коммуникабельность 
++ Эмпатия 
++ Организаторские способности 
++ Аналитический склад ума 
++ Умение координировать деятельностью коллектива 
++ Умение переключаться между задачами 
++ Исполнительность 
++ Упорство 
++ Креативность 
++ Навыки разрешения конфликтных ситуаций

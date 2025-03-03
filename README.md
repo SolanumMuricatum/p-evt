@@ -9,6 +9,5 @@
 + **Gmail:** [hanna.hlushko.2005@gmail.com](hanna.hlushko.2005@gmail.com "Скопировать") 
 + **Deploy:** [SolanumMuricatum.github.io/p-evt/](https://solanummuricatum.github.io/p-evt/ "Перейти по ссылке")
 
-| ![Фотография](ссылка_на_фотографию) | **Информация**  |
+|![](https://github.com/SolanumMuricatum/p-evt/blob/main/me.jpg)| **ФИО:** Глушко Анна Юрьевна <br> **Дата рождения:** 11.03.2005 <br> **Telegram:** @smurny_vozhyk <br> **Группа:** 210901 <br> **GitHub:** [SolanumMuricatum](https://github.com/SolanumMuricatum/ "Перейти по ссылке") <br> **Gmail:** [hanna.hlushko.2005@gmail.com](hanna.hlushko.2005@gmail.com "Скопировать") <br> **Deploy:** [SolanumMuricatum.github.io/p-evt/](https://solanummuricatum.github.io/p-evt/ "Перейти по ссылке") |
 |---------------------------------------|-----------------|
-|                                       | **ФИО:** <br> Иванов Иван Иванович <br> **Дата рождения:** <br> 1 января 2000 <br> **Telegram:** <br> @ivanov <br> **Группа:** <br> 101 <br> **GitHub:** <br> [GitHub](ссылка) <br> **Gmail:** <br> ivanov@gmail.com <br> **Deploy:** <br> [Deploy](ссылка) |

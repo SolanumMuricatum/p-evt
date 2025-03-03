@@ -1,5 +1,5 @@
 # CV
-### Личная информация
+## Личная информация
 ![](https://github.com/SolanumMuricatum/p-evt/blob/main/me.jpg)
 
 + **ФИО:** Глушко Анна Юрьевна
@@ -9,7 +9,7 @@
 + **GitHub:** [SolanumMuricatum](https://github.com/SolanumMuricatum/ "Перейти по ссылке")
 + **Gmail:** hanna.hlushko.2005@gmail.com 
 + **Deploy:** [SolanumMuricatum.github.io/p-evt/](https://solanummuricatum.github.io/p-evt/ "Перейти по ссылке")
-### О себе
+## О себе
 Студентка факультета компьютерного проектирования БГУИР специальности ИПОИТ, увлекаюсь веб
 разработкой, с фокусом на backend-разработку на Java. Также интересуюсь разработкой мобильных 
 приложений. Изучаю и интересуюсь проектной аналитикой, психологией и эргономикой в контексте IT. 

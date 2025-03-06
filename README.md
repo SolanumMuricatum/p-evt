@@ -58,5 +58,31 @@
   - Создание handmade-изделий 
   - Игры разума 
   - Настольные игры 
-  - Прогулки на свежем воздухе 
- 
+  - Прогулки на свежем воздухе
+    
+ ## Пример кода
+ ```java
+@Component
+@EnableScheduling
+public class BackupTask {
+
+    @Autowired
+    private BackupService backupService;
+
+    @PostConstruct
+    public void init() {
+        performBackup(); // Выполнить резервное копирование сразу при старте приложения
+    }
+
+    @Scheduled(fixedRate = 3600000) // Каждые 3600000 миллисекунд (1 час)
+    public void performBackup() {
+        try {
+            backupService.backupDatabase();
+          //  backupService.backupFiles();
+            System.out.println("Backup completed successfully.");
+        } catch (Exception e) {
+            System.err.println("Error during backup: " + e.getMessage());
+        }
+    }
+}
+```
